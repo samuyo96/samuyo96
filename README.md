@@ -2,7 +2,7 @@
 <h1 align="center">Samuel Noval Ruiz</h1>
   <h2 aligh="center"><em>Creador y desarrollador de Erveca</em></h2>  
 </div>
-<img src="https://scontent-mad1-1.cdninstagram.com/v/t51.2885-15/480897384_18129492934404591_3149367155053372381_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4ODA3LnNkci5mNzU3NjEuZGVmYXVsdF9pbWFnZSJ9&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHkKQjvW7ilXdwL3i9cqFo3B7TyF_bRiqnvIzWyaNTPGeY4tNWGaUYyxOz_pJb_UIE&_nc_ohc=0NxVtsG4ANQQ7kNvgEpuHGv&_nc_gid=0od1SjftphOphW_ZqPEO5w&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=MzU3MzExMDk3NjcyNDA4MDcwMw%3D%3D.3-ccb7-5&oh=00_AYFAy7X5wVZGNByzMe8VD0s6j9Hi8ydqEOgWtSJwLOD8ZQ&oe=67EEEB73&_nc_sid=22de04">
+<img src=https://github.com/samuyo96/samuyo96/blob/main/CameraCaptureAMOD.png>
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://erveca.itch.io/erveca)
 
