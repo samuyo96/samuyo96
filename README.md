@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Creador de mapas a través de csv</h3>
 <div align="center">
-<a href=https://github.com/samuyo96/Juego-con-Ana><img src=https://github.com/samuyo96/samuyo96/blob/main/P003.PNG></a>
+<a href=https://github.com/samuyo96/Juego-con-Ana><img src=https://github.com/samuyo96/samuyo96/blob/main/P003.PNG width= 400></a>
 <p>
 <a href=https://github.com/samuyo96/Juego-con-Ana" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
