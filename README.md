@@ -6,7 +6,7 @@
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://erveca.itch.io/erveca)
 
-## Sobre mi
+## Sobre mí
 
 - ⛏️​ Data science en Geología ⛏️​
 - 🕹️ Unity developer 🕹️
